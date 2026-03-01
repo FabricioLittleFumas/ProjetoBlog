@@ -1,0 +1,10 @@
+INSERT INTO noticia(id,subtitulo,texto,titulo) VALUES(1,'subtitulo 1','texto 1','titulo 1');
+INSERT INTO noticia(id,subtitulo,texto,titulo) VALUES(2,'subtitulo 2','texto 2','titulo 2');
+INSERT INTO noticia(id,subtitulo,texto,titulo) VALUES(3,'subtitulo 3','texto 3','titulo 3');
+INSERT INTO noticia(id,subtitulo,texto,titulo) VALUES(4,'subtitulo 4','texto 4','titulo 4');
+INSERT INTO noticia(id,subtitulo,texto,titulo) VALUES(5,'subtitulo 5','texto 5','titulo 5');
+INSERT INTO noticia(id,subtitulo,texto,titulo) VALUES(6,'subtitulo 6','texto 6','titulo 6');
+INSERT INTO noticia(id,subtitulo,texto,titulo) VALUES(7,'subtitulo 7','texto 7','titulo 7');
+INSERT INTO noticia(id,subtitulo,texto,titulo) VALUES(8,'subtitulo 8','texto 8','titulo 8');
+INSERT INTO noticia(id,subtitulo,texto,titulo) VALUES(9,'subtitulo 9','texto 9','titulo 9');
+INSERT INTO noticia(id,subtitulo,texto,titulo) VALUES(10,'subtitulo 10','texto 10','titulo 10');
